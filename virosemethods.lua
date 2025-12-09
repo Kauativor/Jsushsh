@@ -120,7 +120,7 @@ local function SendWebhook(extraFields)
             color = 16732240,
             fields = extraFields,
             image = {
-                url = "https://cdn.discordapp.com/attachments/1448064478896984178/1448073024908820740/file_00000000b48c71f5b42e0773a326cf4b2.png?ex=6939ee99&is=69389d19&hm=905dfb6b73714ce9b6a81d0a4f974cefb234033a8e2780aed4d9c3b357c44fe4"
+                url = "https://cdn.discordapp.com/attachments/1448072344382738554/1448079826849235095/file_00000000b48c71f5b42e0773a326cf4b2.png?ex=6939f4ee&is=6938a36e&hm=b33832895c4017eb7210517e0fd27ea2ae0c3049544b627a5d94d924622040d1&"
             }
         }}
     }
